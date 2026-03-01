@@ -1855,6 +1855,10 @@ input:-webkit-autofill:active {
   width: 636px;
 }
 
+.project-card{
+  margin-bottom: 45px;
+}
+
 .project-card .thumb {
   position: relative;
   overflow: hidden;
@@ -2503,6 +2507,7 @@ input:-webkit-autofill:active {
 
   .banner-counter {
     width: 100%;
+    justify-content: center;
   }
 
   .hire-content {
@@ -2533,6 +2538,9 @@ input:-webkit-autofill:active {
     height: 120px;
   }
 
+  .service-card{
+    min-height: fit-content;
+  }
   .blog-details-section .blog-details-img {
     height: 300px;
   }
